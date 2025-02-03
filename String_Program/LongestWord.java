@@ -11,7 +11,7 @@ public class LongestWord {
         String currentWord = "";
         
         for (int i = 0; i <= sentence.length(); i++) {
-            char c = (i < sentence.length()) ? sentence.charAt(i) : ' '; // Add space at the end to process last word
+            char c = (i < sentence.length()) ? sentence.charAt(i) : ' ';
             
             if (c != ' ') {
                 currentWord += c;
@@ -19,7 +19,7 @@ public class LongestWord {
                 if (currentWord.length() > longestWord.length()) {
                     longestWord = currentWord;
                 }
-                currentWord = ""; // Reset for next word
+                currentWord = ""; 
             }
         }
 
