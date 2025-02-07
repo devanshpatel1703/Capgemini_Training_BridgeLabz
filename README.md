@@ -25,3 +25,6 @@ instanceof Operator - Checking Object’s Class Type
 
 Assignment 10 - 06-02-2025
 dive into object-oriented programming (OOP) concepts like inheritance, polymorphism, encapsulation, and abstraction, which help create reusable and maintainable code. Exception handling, using try, catch, and custom exceptions, manages errors effectively. The Collections Framework provides efficient ways to store and manipulate data with structures like List, Set, and Map. Multithreading allows for concurrent programming, while file I/O enables reading and writing files. Java frameworks like Spring and Hibernate enhance development, and Java 8’s lambda expressions and Stream API simplify data processing. Understanding the JVM helps optimize performance, making Java a powerful language for scalable applications.
+
+Assignment 11 - 07-02-2025
+By working on these Java programs, I can master key OOP principles like inheritance, polymorphism, encapsulation, and interfaces. I'll learn how to design hierarchical class structures by modeling real-world scenarios like educational courses, bank accounts, school roles, restaurant systems, and vehicles. Through inheritance, I’ll be able to reuse code efficiently, while method overriding will help me customize behavior in subclasses.
