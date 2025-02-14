@@ -35,3 +35,5 @@ gained a strong understanding of object-oriented programming (OOP) principles in
 Assignment 14 - 13-02-2025 A practical approach to mastering linked lists in Java. The singly linked list manages student records, the doubly linked list handles movie data with bidirectional traversal, and the circular linked list enables efficient task scheduling. These implementations strengthen core data structure concepts and real-world problem-solving skills, making them a great foundation for advanced learning.
 
 Assignment 15 - 13-02-2025 understand how stacks, queues, and hash maps work in solving real-world problems efficiently. They learn when to use each structure, optimize operations, handle edge cases, and ensure thread safety. By implementing these concepts in Java, they improve problem-solving skills and coding efficiency while gaining practical experience with fundamental data structures.
+
+Assignment 15 - 14-02-2025 Made java codes of various types of sorting algorithmns and understand how they are implemented on different real life scenarios.
