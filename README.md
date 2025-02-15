@@ -37,3 +37,5 @@ Assignment 14 - 13-02-2025 A practical approach to mastering linked lists in Jav
 Assignment 15 - 13-02-2025 understand how stacks, queues, and hash maps work in solving real-world problems efficiently. They learn when to use each structure, optimize operations, handle edge cases, and ensure thread safety. By implementing these concepts in Java, they improve problem-solving skills and coding efficiency while gaining practical experience with fundamental data structures.
 
 Assignment 15 - 14-02-2025 Made java codes of various types of sorting algorithmns and understand how they are implemented on different real life scenarios.
+
+Assignment 16 - 15-02-2025 This assignment helped me understand key Java concepts like StringBuilder, StringBuffer, and FileReader through practical coding exercises. The best practices section clarified when to use each approach, and the problems reinforced my learning. Comparing StringBuilder and StringBuffer was especially insightful for understanding performance differences. Also the questions of Liner search and binary Search are extremely good.
