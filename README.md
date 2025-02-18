@@ -42,3 +42,4 @@ Assignment 16 - 15-02-2025 This assignment helped me understand key Java concept
 
 Assignment 17 - 17-02-2025 Learnt about the computational power of diffrent types of algorithms on large datasets like binary search vs Linear search and also compared them for the best suited algorithm in different situations.
 
+Assignment 18 - 18-02-2025 gain a strong understanding of generic programming in Java, including the use of generic classes, methods, and bounded type parameters to write flexible and type-safe code. They will also learn how to apply wildcards (? extends Type) for handling different subclasses dynamically. Additionally, the assignments reinforce key Object-Oriented Programming (OOP) principles such as abstraction, inheritance, and encapsulation, helping students design modular and reusable components
