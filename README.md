@@ -44,4 +44,4 @@ Assignment 17 - 17-02-2025 Learnt about the computational power of diffrent type
 
 Assignment 18 - 18-02-2025 Gain a strong understanding of generic programming in Java, including the use of generic classes, methods, and bounded type parameters to write flexible and type-safe code. They will also learn how to apply wildcards (? extends Type) for handling different subclasses dynamically. Additionally, the assignments reinforce key Object-Oriented Programming (OOP) principles such as abstraction, inheritance, and encapsulation, helping students design modular and reusable components
 
-Assignment 18 - 20-02-2025 Very good matrial for understanding generic data structures like hashset, hashmap, queue. Got a very good understanding of different algorithms overall the matrial is very good.
+Assignment 19 - 20-02-2025 Very good matrial for understanding generic data structures like hashset, hashmap, queue. Got a very good understanding of different algorithms overall the matrial is very good.
