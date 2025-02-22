@@ -47,3 +47,5 @@ Assignment 18 - 18-02-2025 Gain a strong understanding of generic programming in
 Assignment 19 - 20-02-2025 Very good matrial for understanding generic data structures like hashset, hashmap, queue. Got a very good understanding of different algorithms overall the matrial is very good.
 
 Assignment 20 - 21-02-2025 Got a very good understanding of exception hal in java questions are very good and very much scenario based to gasp the exact concepts.
+
+Assignment 21 - 22-02-2025 Got a very good understanding of regex and unit testing the questions were very elaborated and conseptual. Regex questions were very good and I had never done thease kind of questions of regex ever.
