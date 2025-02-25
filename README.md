@@ -49,3 +49,5 @@ Assignment 19 - 20-02-2025 Very good matrial for understanding generic data stru
 Assignment 20 - 21-02-2025 Got a very good understanding of exception hal in java questions are very good and very much scenario based to gasp the exact concepts.
 
 Assignment 21 - 22-02-2025 Got a very good understanding of regex and unit testing the questions were very elaborated and conseptual. Regex questions were very good and I had never done thease kind of questions of regex ever.
+
+Assignment 22 - 25-02-2025 Learnt about comma seprated value files whoe to work with that kind of data and how can they be accessed the quality of questions was very good and reasonable.
